@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<WORKFLOWDATA>
+	<FOLDER Name="scenarios" CtxtId="c717c787-826a-4931-a9d7-d7b88817579a" IsIndexed="N">
+		<FOLDER Name="workflow1" CtxtId="bbbfd2e6-a2fa-4a4f-8336-13610b25d130" IsIndexed="N">
+			<FOLDER Name="outArgs" CtxtId="570306aa-677e-4131-bb6a-c78d9e9f7829" IsIndexed="N">
+				<ITEM Name="FirstName" CtxtId="db8b7cf0-6159-4fe8-b18e-2cbb9e2509f7" IsIndexed="N" />
+				<ITEM Name="LastName" CtxtId="5d3a8d26-6492-4d73-b98c-9bfba6ae6f39" IsIndexed="N" />
+			</FOLDER>
+			<FOLDER Name="inArgs" CtxtId="3933e97b-c99f-41ea-9053-9a1ab51d3886" IsIndexed="N">
+				<ITEM Name="ID" CtxtId="56e5b593-a981-4b01-a550-dfac2952acb2" IsIndexed="N" />
+			</FOLDER>
+			<ITEM Name="inJSON" CtxtId="1a244c9e-2139-4c24-97b7-87190995a79f" IsIndexed="N" />
+			<ITEM Name="outJSON" CtxtId="ac0a644d-9bfa-4f9c-8d6a-3f320cdfaa9c" IsIndexed="N" />
+		</FOLDER>
+	</FOLDER>
+</WORKFLOWDATA>
